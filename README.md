@@ -5,7 +5,7 @@
 
 I work on deep learning across computer vision, NLP, and robotics, with a habit of rigorous experimental design — leakage-aware splits, honest baselines, and reproducible runs.
 
-### 🌐 Portfolio → **[muhammad-jahanzaib007.github.io](https://muhammad-jahanzaib007.github.io/)**
+### 🌐 Portfolio → **[jahanzaibawan.com](https://jahanzaibawan.com/)**
 Full case studies with results, figures, and methodology.
 
 ---
@@ -37,7 +37,7 @@ Full case studies with results, figures, and methodology.
 
 ### 📫 Connect
 
-- **Portfolio:** [muhammad-jahanzaib007.github.io](https://muhammad-jahanzaib007.github.io/)
+- **Portfolio:** [jahanzaibawan.com](https://jahanzaibawan.com/)
 - **LinkedIn:** [muhammad-jahanzaib-awan](https://linkedin.com/in/muhammad-jahanzaib-awan-277082264)
 - **Email:** hm9024462@gmail.com
 
