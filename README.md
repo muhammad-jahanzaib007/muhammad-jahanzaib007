@@ -39,7 +39,7 @@ Full case studies with results, figures, and methodology.
 
 - **Portfolio:** [jahanzaibawan.com](https://jahanzaibawan.com/)
 - **LinkedIn:** [muhammad-jahanzaib-awan](https://linkedin.com/in/muhammad-jahanzaib-awan-277082264)
-- **Email:** hm9024462@gmail.com
+- **Email:** muhammad@jahanzaibawan.com
 
 ---
 
