@@ -1,7 +1,7 @@
 <!-- profile readme -->
 # Hi, I'm Muhammad Jahanzaib Awan 👋
 
-**MSc Artificial Intelligence** student at De Montfort University (Leicester, UK) — building toward **Machine Learning Engineer / Data Scientist** roles.
+**MSc Artificial Intelligence** student at De Montfort University (Leicester, UK) - building toward **Machine Learning Engineer / Data Scientist** roles.
 
 I work on deep learning across computer vision, NLP, and robotics, with a habit of rigorous experimental design — leakage-aware splits, honest baselines, and reproducible runs.
 
